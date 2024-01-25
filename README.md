@@ -85,3 +85,7 @@ answer_file_path_1 = "output/answer_001.txt"
             )
 
 ```
+
+# プログラム実行方法(VSCode使用)
+
+question_and_answer.py を実行してください。
